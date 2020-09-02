@@ -11,7 +11,7 @@ for _ in range(9):
     turtle.forward(200)
     turtle.right(160)
 turtle.end_fill()
-time.sleep(3)
+time.sleep(1)
 
 turtle.penup()
 turtle.goto(-150, -120)
