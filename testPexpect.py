@@ -11,4 +11,4 @@ elif i == 1:
     child.expect('[#\$]')
 elif i == 2:
     print('Login OK.')
-    print('Shell command prompt', child.after)
+    print('Shell command ()prompt', child.afte)
